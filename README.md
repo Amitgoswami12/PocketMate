@@ -28,8 +28,8 @@ A **credit card recommendation web app** built with **Node.js, Express, EJS and 
 ## 🚀 Run locally
 
 ```bash
-git clone https://github.com/Amitgoswami12/NodeJS.git
-cd NodeJS
+git clone https://github.com/Amitgoswami12/PocketMate.git
+cd PocketMate
 npm install
 ```
 
